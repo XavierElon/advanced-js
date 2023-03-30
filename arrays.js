@@ -22,7 +22,7 @@ const data2 = [
   { id: 8, name: 'Zuck', items: ['apples', 'strawberries'], subscribed: true },
 ]
 
-const array1 = [1, 2, 3, 4, 5]
+const array1 = [1, 2, 3, 4, 5, 6]
 
 const arr1 = [0, 1, 2, [3, 4]]
 
