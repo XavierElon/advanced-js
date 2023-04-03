@@ -197,12 +197,12 @@ const valuesArray = () => {
 }
 
 const main = () => {
-  filterArray()
+  // filterArray()
   //   fetchPosts()
   //   atArray()
   //   concatArray()
   // fillArray()
-  // findArray()
+  findArray()
   // flatArray()
   // forEachArray()
   // fromArray()
