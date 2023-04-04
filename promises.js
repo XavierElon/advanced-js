@@ -54,7 +54,7 @@
 // apiCall()
 // apiCall2()
 
-import axios from 'axios'
+// import axios from 'axios'
 
 const newEvent = new Promise((resolve, reject) => {
   let name = 'achilles'
@@ -67,7 +67,7 @@ const newEvent = new Promise((resolve, reject) => {
 
 newEvent
   .then((name) => {
-    console.log(name)
+    console.log('test' + name)
   })
   .catch((err) => {
     console.log(err)
